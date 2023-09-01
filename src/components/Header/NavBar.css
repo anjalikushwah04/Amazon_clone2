@@ -5,12 +5,10 @@ header {
     position: fixed;
     top: 0;
     z-index: 2;
-    width: 100%;
 }
 
 header nav {
     width: 100%;
-    /* margin: auto; */
     height: 100%;
     display: flex;
     justify-content: space-around;
@@ -26,8 +24,7 @@ header nav .left {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    /* border: 2px solid red; */
-    flex: .7;
+    flex: 0.7;
 }
 
 
